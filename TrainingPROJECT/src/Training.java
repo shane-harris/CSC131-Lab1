@@ -15,6 +15,6 @@ public class Training {
 	System.out.println("Kevin Mouayang");
 	System.out.println("Connor Gaymon");
 	System.out.println("Joseph Crouson");
-	
+	System.out.println("Jake Reynolds");
 	}
 }
