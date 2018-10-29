@@ -9,12 +9,11 @@ public class Training {
 	 * For now everyone just add a System.out statement with your name
 	 * and commit and push it to the repo. This will all be on the 
 	 * master branch because this project if just for our practice*/
-	public static void main(String[] args){
-	
-	System.out.println("Shane Harris");
-	System.out.println("Kevin Mouayang");
-	System.out.println("Connor Gaymon");
-	System.out.println("Joseph Crouson");
-	System.out.println("Jake Reynolds");
+	public static void main(String[] args){	
+		System.out.println("Shane Harris");
+		System.out.println("Kevin Mouayang");
+		System.out.println("Connor Gaymon");
+		System.out.println("Joseph Crouson");
+		System.out.println("Jake Reynolds");
 	}
 }
