@@ -15,6 +15,7 @@ public class Training {
 		System.out.println("Connor Gaymon");
 		System.out.println("Joseph Crouson");
 		System.out.println("Jake Reynolds");
+		System.out.println("Ian Charamuga");
 		
 		/*The next thing that we will practice is creating a merge conflict
 		 * and how to resolve the conflict. This will require two people
