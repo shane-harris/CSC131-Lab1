@@ -1,5 +1,4 @@
-import java.util.*;
-import java.lang.*;
+
 
 public class Training {
 	/* This is a training class I created for out team so that we can
